@@ -29,4 +29,4 @@ AI Based Chatbot
 
 ## Author
 
-[Anitha Honeydew G]
+Anitha Honeydew G
